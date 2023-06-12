@@ -13,7 +13,7 @@ public class Slideshow extends JFrame{
       new Slideshow();
     }
     
-    public SlideshowTest(){
+    public Slideshow(){
         super("AT Photo Slideshow");
         
         for (int i = 1; i < 7; i++) {
