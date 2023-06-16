@@ -85,6 +85,7 @@ public class Calculator extends JFrame implements ActionListener  {
             break;
          }
    }
+ 
    public void actionPerformed(ActionEvent click) {
       if (click.getSource() == addButton) {
          operation = 1;
